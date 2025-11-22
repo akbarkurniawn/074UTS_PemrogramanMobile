@@ -1,12 +1,12 @@
-1. Halaman Home berisi daftar kategori (misal: Makanan, Minuman, Elektronik)
+1. Halaman Home berisi daftar kategori (Makanan, Minuman, Camilan)
    <img width="497" height="722" alt="image" src="https://github.com/user-attachments/assets/ad5d6737-8847-45f6-9dbf-0657d47a4415" />
 
-2. Ketika kategori ditekan, aplikasi berpindah ke halaman ProductList, menampilkan daftar produk dalam bentuk Grid.
+2. Saat kategori ditekan, aplikasi pindah ke halaman ProductList, menampilkan daftar produk dalam bentuk Grid.
    <img width="497" height="724" alt="image" src="https://github.com/user-attachments/assets/a644f000-983a-42e6-9877-8c21d504f158" />
    <img width="499" height="723" alt="image" src="https://github.com/user-attachments/assets/828f9833-61a3-464d-a663-d157aa52662b" />
    <img width="498" height="730" alt="image" src="https://github.com/user-attachments/assets/6b24d1e0-1eeb-47df-be6b-e9e3f939766a" />
 
-3. Ketika salah satu produk diklik, aplikasi berpindah ke ProductDetail yang hanya menampilkan ikon produk, nama, dan harganya.
+3. Salah satu produk diklik, aplikasi berpindah ke ProductDetail yang hanya menampilkan ikon produk, nama, dan harganya.
    <img width="811" height="724" alt="image" src="https://github.com/user-attachments/assets/e46e5c25-b452-44ba-acc3-150837d11164" />
    <img width="811" height="723" alt="image" src="https://github.com/user-attachments/assets/ecafed32-a28c-4467-bea3-fec5ad2e798b" />
    <img width="807" height="727" alt="image" src="https://github.com/user-attachments/assets/8ededfd8-43b3-4e38-91f3-c3f16d3cd072" />
